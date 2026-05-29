@@ -56,5 +56,5 @@ Main things it demonstrates:
 
 ## Contact
 
-- Email: derek.di.liu@gmail.com
+- Email: liudi311@outlook.com
 - GitHub: github.com/Derek311
