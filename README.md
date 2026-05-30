@@ -19,9 +19,6 @@ that other developers can read without a meeting.
 
 #### Currently
 
-🏗  Building [`pharmacy-claim-mini`](https://github.com/derekdiliu/pharmacy-claim-mini) — 
-distilling patterns from 4 years of healthcare backend work into a reviewable demo.
-
 📓  Maintaining [`backend-case-studies`](https://github.com/derekdiliu/backend-case-studies) — 
 notes on real production backend work, troubleshooting approach, and lessons learned.
 
