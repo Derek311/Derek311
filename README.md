@@ -29,7 +29,7 @@ Main things it demonstrates:
 
 ### Healthcare Settlement Platform
 
-Backend developer on a public healthcare claim and settlement platform serving about 80,000 pharmacies nationally in China.
+Backend developer on a public healthcare claim and settlement platform serving about 80,000 pharmacies nationally in China. I keep public-safe notes here: https://github.com/Derek311/backend-case-studies.
 
 Main things it demonstrates:
 
